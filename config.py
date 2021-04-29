@@ -1,5 +1,5 @@
-token = '1745110782:AAHW1GH4k-NkV04eSvi_EuNo_MgEu0JJco4'
-sudo = 1683102194
-apikey = '000000000-0000000-000000000-00000'
-appname = 'None'
-time = 3
+token = '1763739510:AAEmDm14A1ldNssrEYs2ha5UNWx139qIRhQ'
+sudo = 1499474748
+apikey = '26c08efd-43fa-402a-babb-8ec5652e6a7f'
+appname = 'sajadayadtiktokbot'
+time = 1
