@@ -1,0 +1,4 @@
+pyTelegramBotAPI==3.7.6
+requests==2.25.1
+user_agent==0.1.9
+heroku3==4.2.3
