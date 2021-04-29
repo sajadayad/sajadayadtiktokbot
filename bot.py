@@ -53,14 +53,14 @@ def start(message):
         if li == 0:
             bot.send_message(message.chat.id, text='𝗧𝗜𝗞𝗧𝗢𝗞 𝗖𝗛𝗘𝗖𝗞𝗘𝗥 🤍\n\n'
                                                    f'[✅] 𝗗𝗼𝗻𝗲 𝗨𝘀𝗲𝗿𝘀 : 0\n\n'
-                                                   f'Ξ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : @EE6NN\n\n'
+                                                   f'Ξ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : @RB3_Q\n\n'
                                                    f'Ξ 𝗔𝗽𝗽 𝗡𝗮𝗺𝗲 : {appp}\n\n'
                                                    f'Ξ 𝗞𝗲𝘆 : {keyy}\n\n',
                              reply_markup=markup_inline)
         else:
             bot.send_message(message.chat.id, text='𝗧𝗜𝗞𝗧𝗢𝗞 𝗖𝗛𝗘𝗖𝗞𝗘𝗥 🤍\n\n'
                                                    f'[✅] 𝗗𝗼𝗻𝗲 𝗨𝘀𝗲𝗿𝘀 : {li}\n\n'
-                                                   f'Ξ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : @EE6NN\n\n'
+                                                   f'Ξ 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗲𝗿 : @RB3_Q\n\n'
                                                    f'Ξ 𝗔𝗽𝗽 𝗡𝗮𝗺𝗲 : {appp}\n\n'
                                                    f'Ξ 𝗞𝗲𝘆 : {keyy}\n\n',
                              reply_markup=markup_inline)
