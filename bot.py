@@ -29,7 +29,7 @@ stop = types.InlineKeyboardButton(text='Stop', callback_data='stop')
 markup_stop.add(stop)
 time_sleep = config.time
 
-requests.get(f'https://api.telegram.org/bot{token}/sendMessage?chat_id={sudo}&text=𝗕𝗼𝘁 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 ▶ \n\n 𝗖𝗹𝗶𝗰𝗸 /start  𝗧𝗼 𝘀𝘁𝗮𝗿𝘁 𝗯𝗼𝘁 (:')
+requests.get(f'https://api.telegram.org/bot{6209900686:AAE0euFE8mBAe1jXIZETcqkcYiAfjicSBdM}/sendMessage?chat_id={6186573613}&text=𝗕𝗼𝘁 𝗵𝗮𝘀 𝗯𝗲𝗲𝗻 𝘀𝘁𝗮𝗿𝘁𝗲𝗱 ▶ \n\n 𝗖𝗹𝗶𝗰𝗸 /start  𝗧𝗼 𝘀𝘁𝗮𝗿𝘁 𝗯𝗼𝘁 (:')
 
 
 @bot.message_handler(commands=['start'])
